@@ -6,20 +6,17 @@ The script run_analysis.R was written as coursework for the class "Getting and C
 by Jeff Leek, PhD, Roger D. Peng, PhD, Brian Caffo, PhD" on Coursera.org
 
 # acknowledgements
+```
 The script manipulates data from the following dataset:
-
-==================================================================
 Human Activity Recognition Using Smartphones Dataset Version 1.0
-==================================================================
 Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto.
 Smartlab - Non Linear Complex Systems Laboratory
 DITEN - Universit‡ degli Studi di Genova.
 Via Opera Pia 11A, I-16145, Genoa, Italy.
 activityrecognition@smartlab.ws
 www.smartlab.ws
-==================================================================
-
 The data is available here: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+```
 
 # how the script works
 - load the activity and variable labels that describe the labeled activities and each of the measurements and calculations
