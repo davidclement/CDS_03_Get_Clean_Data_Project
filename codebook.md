@@ -3,7 +3,6 @@
 The study design and the meaning of variables and codes are all
 described in the data set documentation.  The original files are listed
 below, and are available at http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
-here. 
 
 
 # This Repo
